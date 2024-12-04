@@ -1,0 +1,8 @@
+print--n1.globby
+print--n2.globby
+print--n3.globby
+print--n4.globby
+print--n5.globby
+print--n6.globby
+print--n7.globby
+print--n8.globby
